@@ -3639,5 +3639,8 @@
   },
   "weather": {
     "__resolveType": "decohub/apps/weather.ts"
+  },
+  "blog": {
+    "__resolveType": "decohub/apps/blog.ts"
   }
 }
